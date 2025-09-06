@@ -66,7 +66,10 @@
     <Compile Include="Assets\InfinityPBR - Magic Pig Games\Progress Bar\Scripts\HorizontalProgressBar.cs" />
     <Compile Include="Assets\Script\Player.cs" />
     <Compile Include="Assets\InfinityPBR - Magic Pig Games\Progress Bar\Scripts\ProgressBar.cs" />
+    <Compile Include="Assets\Script\UIController.cs" />
     <Compile Include="Assets\Script\AutoDestroy.cs" />
+    <Compile Include="Assets\Script\PlayGame.cs" />
+    <Compile Include="Assets\Script\SoundManager.cs" />
     <Compile Include="Assets\Script\Chicken.cs" />
     <Compile Include="Assets\Script\Mapbounds.cs" />
     <Compile Include="Assets\Script\Egg.cs" />

@@ -114,6 +114,45 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -122,9 +161,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 41
+        y: 42
         width: 320
-        height: 257
+        height: 255
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,10 +182,10 @@ TextureImporter:
       name: Background_Nebula-0002_1
       rect:
         serializedVersion: 2
-        x: 23
-        y: 0
-        width: 82
-        height: 47
+        x: 24
+        y: 1
+        width: 80
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -165,10 +204,10 @@ TextureImporter:
       name: Background_Nebula-0002_2
       rect:
         serializedVersion: 2
-        x: 120
-        y: 41
-        width: 6
-        height: 6
+        x: 121
+        y: 42
+        width: 4
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,10 +226,10 @@ TextureImporter:
       name: Background_Nebula-0002_3
       rect:
         serializedVersion: 2
-        x: 15
-        y: 15
-        width: 7
-        height: 7
+        x: 16
+        y: 16
+        width: 5
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -209,10 +248,10 @@ TextureImporter:
       name: Background_Nebula-0002_4
       rect:
         serializedVersion: 2
-        x: 99
-        y: 15
-        width: 14
-        height: 15
+        x: 100
+        y: 16
+        width: 12
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,10 +270,10 @@ TextureImporter:
       name: Background_Nebula-0002_5
       rect:
         serializedVersion: 2
-        x: 112
-        y: 19
-        width: 9
-        height: 9
+        x: 113
+        y: 20
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -253,10 +292,10 @@ TextureImporter:
       name: Background_Nebula-0002_6
       rect:
         serializedVersion: 2
-        x: 17
-        y: 7
-        width: 7
-        height: 7
+        x: 18
+        y: 8
+        width: 5
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -275,7 +314,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 931b42371b8680b47b0052f4d5124125
     internalID: 0
     vertices: []
     indices: 
@@ -283,7 +322,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Background_Nebula-0002_0: -1651646459300108979
       Background_Nebula-0002_1: -918330644333400931

@@ -45,7 +45,7 @@ public class PGame : MonoBehaviour
 
     public void remainsecert()
     {
-        SceneManager.LoadScene("MAIN");
+        SceneManager.LoadScene("MENU");
     }
     public void relast()
     {

@@ -61,7 +61,6 @@ public class GameManager : MonoBehaviour
 
     public void Quit()
     {
-        Application.Quit();
-        Debug.Log("Thoát game");
+        SceneManager.LoadScene("MENU");
     }
 }
