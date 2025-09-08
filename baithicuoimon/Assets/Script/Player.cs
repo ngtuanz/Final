@@ -18,11 +18,14 @@ public class Player : MonoBehaviour
     [Header("Power-up")]
     public float doubleShotDuration = 5f;
     public float multiShotDuration = 5f;
+    private SFXPlayer sfx;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         StartCoroutine(Spawn());
+        sfx = FindFirstObjectByType<SFXPlayer>();
+
     }
 
     void FixedUpdate()
@@ -87,6 +90,8 @@ public class Player : MonoBehaviour
             GameObject bullet = Instantiate(bulletPrefab, firePoint.position, Quaternion.identity);
             bullet.GetComponent<Rigidbody2D>().linearVelocity = Vector2.up * bulletSpeed;
         }
+
+        if (sfx != null) sfx.PlayShoot();
     }
 
     private void OnTriggerEnter2D(Collider2D collision)

@@ -80,6 +80,7 @@
     <Compile Include="Assets\Script\PGame.cs" />
     <Compile Include="Assets\Script\EnemySpawner.cs" />
     <Compile Include="Assets\Script\Boss.cs" />
+    <Compile Include="Assets\Script\SFXPlayer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

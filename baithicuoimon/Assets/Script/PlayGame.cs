@@ -9,7 +9,7 @@ public class PLayGame : MonoBehaviour
 
     public void OnPlayButtonClicked()
     {
-        // Phát âm thanh SFX click
+        
         if (sfxAudioSource != null && clickSFX != null)
         {
             sfxAudioSource.PlayOneShot(clickSFX);
@@ -17,5 +17,6 @@ public class PLayGame : MonoBehaviour
 
         // Load scene game
         SceneManager.LoadScene("MAIN");
+        Time.timeScale = 1f;
     }
 }

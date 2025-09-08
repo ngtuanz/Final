@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|c:\\users\\nguye\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\unit2d\\final\\baithicuoimon\\assets\\script\\pgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|c:\\users\\nguye\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\unit2d\\final\\baithicuoimon\\assets\\script\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\assets\\script\\pgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\assets\\script\\playgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\assets\\script\\waveui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\waveui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\assets\\script\\autodestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\autodestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|c:\\users\\nguye\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\unit2d\\final\\baithicuoimon\\assets\\script\\sfxplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sfxplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\assets\\script\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\assets\\script\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\assets\\script\\playgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\assets\\script\\autodestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\autodestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\assets\\script\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,20 +51,8 @@
       "RelativeMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\assets\\script\\chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\assets\\script\\waveui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\waveui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ABD877AC-D4A9-1F14-DE0C-FB3AB274D816}|Assembly-CSharp.csproj|C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\assets\\script\\egg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -73,7 +77,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -81,68 +85,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PlayGame.cs",
-              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\PlayGame.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\PlayGame.cs",
-              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\PlayGame.cs",
-              "RelativeToolTip": "Assets\\Script\\PlayGame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "SFXPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\SFXPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SFXPlayer.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\SFXPlayer.cs",
+              "RelativeToolTip": "Assets\\Script\\SFXPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T10:40:28.537Z"
+              "WhenOpened": "2025-09-08T01:37:17.792Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "SoundManager.cs",
               "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\SoundManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\SoundManager.cs",
               "ToolTip": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\SoundManager.cs",
               "RelativeToolTip": "Assets\\Script\\SoundManager.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAuwFAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwFAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T09:52:11.879Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UIController.cs",
-              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\UIController.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\UIController.cs",
-              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\UIController.cs",
-              "RelativeToolTip": "Assets\\Script\\UIController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T09:41:38.411Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PGame.cs",
-              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\PGame.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\PGame.cs",
-              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\PGame.cs",
-              "RelativeToolTip": "Assets\\Script\\PGame.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwC0AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T17:23:16.347Z",
+              "WhenOpened": "2025-09-06T09:52:11.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProgressBarInspectorTest.cs",
-              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\InfinityPBR - Magic Pig Games\\Progress Bar\\Scripts\\ProgressBarInspectorTest.cs",
-              "RelativeDocumentMoniker": "Assets\\InfinityPBR - Magic Pig Games\\Progress Bar\\Scripts\\ProgressBarInspectorTest.cs",
-              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\InfinityPBR - Magic Pig Games\\Progress Bar\\Scripts\\ProgressBarInspectorTest.cs",
-              "RelativeToolTip": "Assets\\InfinityPBR - Magic Pig Games\\Progress Bar\\Scripts\\ProgressBarInspectorTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T13:14:12.155Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Chicken.cs",
               "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\Chicken.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Chicken.cs",
@@ -154,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Boss.cs",
               "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\Boss.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Boss.cs",
@@ -166,19 +135,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
               "ToolTip": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\GameManager.cs",
               "RelativeToolTip": "Assets\\Script\\GameManager.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAQwD8AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwD8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T09:59:42.597Z"
+              "WhenOpened": "2025-09-01T09:59:42.597Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "WaveUI.cs",
               "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\WaveUI.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\WaveUI.cs",
@@ -186,11 +156,12 @@
               "RelativeToolTip": "Assets\\Script\\WaveUI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T09:18:38.973Z"
+              "WhenOpened": "2025-09-01T09:18:38.973Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Egg.cs",
               "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\Egg.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Egg.cs",
@@ -202,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "EnemySpawner.cs",
               "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\EnemySpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\EnemySpawner.cs",
@@ -214,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "AutoDestroy.cs",
               "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\AutoDestroy.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\AutoDestroy.cs",
@@ -226,7 +197,84 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 7,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Bullet.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Script\\Bullet.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:25:36.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\Player.cs",
+              "RelativeToolTip": "Assets\\Script\\Player.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwF0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T08:50:12.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UIController.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\UIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UIController.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\UIController.cs",
+              "RelativeToolTip": "Assets\\Script\\UIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T09:41:38.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PGame.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\PGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PGame.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\PGame.cs",
+              "RelativeToolTip": "Assets\\Script\\PGame.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T17:23:16.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayGame.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\PlayGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayGame.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\PlayGame.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T10:40:28.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProgressBarInspectorTest.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\InfinityPBR - Magic Pig Games\\Progress Bar\\Scripts\\ProgressBarInspectorTest.cs",
+              "RelativeDocumentMoniker": "Assets\\InfinityPBR - Magic Pig Games\\Progress Bar\\Scripts\\ProgressBarInspectorTest.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\InfinityPBR - Magic Pig Games\\Progress Bar\\Scripts\\ProgressBarInspectorTest.cs",
+              "RelativeToolTip": "Assets\\InfinityPBR - Magic Pig Games\\Progress Bar\\Scripts\\ProgressBarInspectorTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T13:14:12.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\baithicuoimon\\Assets\\Script\\Enemy.cs",
               "RelativeDocumentMoniker": "..\\..\\baithicuoimon\\Assets\\Script\\Enemy.cs",
@@ -234,24 +282,11 @@
               "RelativeToolTip": "..\\..\\baithicuoimon\\Assets\\Script\\Enemy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T09:37:15.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T09:37:15.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Bullet.cs",
-              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\Bullet.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Bullet.cs",
-              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\Bullet.cs",
-              "RelativeToolTip": "Assets\\Script\\Bullet.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAwA4AAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T09:25:36.867Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Mapbounds.cs",
               "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\Mapbounds.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Mapbounds.cs",
@@ -260,18 +295,6 @@
               "ViewState": "AgIAAA4AAAAAAAAAAAAwwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-31T09:00:23.161Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\Player.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Player.cs",
-              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Unit2d\\Final\\baithicuoimon\\Assets\\Script\\Player.cs",
-              "RelativeToolTip": "Assets\\Script\\Player.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAAAGMAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T08:50:12.482Z"
             }
           ]
         },
